@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Python
+- I’m currently learning HTML, CSS and JavaScript.
   
  <div>
   <a href="https://github.com/viniciusdsv93">
