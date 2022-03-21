@@ -2,7 +2,7 @@
 
 
 
-- I’m currently learning HTML, CSS and JavaScript.
+- I’m currently learning HTML, CSS, JavaScript, TypeScript and React.
   
  <div>
   <a href="https://github.com/viniciusdsv93">
