@@ -2,7 +2,7 @@
 
 
 
-- I’m currently learning HTML, CSS, JavaScript, ReactJS, ReduxJS, MySQL and C#.
+- I’m currently learning ReactJS, Redux, MySQL and NodeJS.
   
  <div>
   <a href="https://github.com/viniciusdsv93">
