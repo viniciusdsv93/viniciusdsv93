@@ -2,7 +2,7 @@
 
 
 
-- I’m currently learning ReactJS, Redux, MySQL and NodeJS.
+- I’m currently learning Java, MySQL and NodeJS.
   
  <div>
   <a href="https://github.com/viniciusdsv93">
