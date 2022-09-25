@@ -2,7 +2,7 @@
 
 
 
-- I’m currently learning Java.
+- I’m currently learning Node.
   
  <div>
   <a href="https://github.com/viniciusdsv93">
